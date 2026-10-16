@@ -1,5 +1,8 @@
 # 차체 편의 기능 제어 SW (VBC: Vehicle Body Control)
 
+> **5인 팀 프로젝트 · 내 역할: 인터페이스 설계, UI (PR #10 · #13)**  
+> 원본 저장소: [James-Recon40/AI.M_Project](https://github.com/James-Recon40/AI.M_Project)
+
 가상 차량의 **전조등 · 와이퍼 · 도어 잠금 · 계기판 경고**를 C로 구현하고, 웹 UI에서 입력을 바꿔 가며 요구사항대로 동작하는지 **블랙박스 테스트로 증명**한 팀 프로젝트입니다.
 
 - 과정: KDT 지능형 모빌리티 엔지니어 · AI Agent 활용 SW 개발/검증 프로젝트 (2026.10)
