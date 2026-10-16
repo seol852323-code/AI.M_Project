@@ -3,6 +3,7 @@
 > **5인 팀 프로젝트 · 내 역할: 인터페이스 설계, UI (PR #10 · #13)**  
 > 인터페이스 정의서: [`docs/03_interface/03_인터페이스_정의서_VBC_v1.4.xlsx`](docs/03_interface/03_인터페이스_정의서_VBC_v1.4.xlsx)  
 > 테스트 결과: [`tests/results/1차/06_BlackBox_TestResult_VBC_1차.xlsx`](tests/results/1차/06_BlackBox_TestResult_VBC_1차.xlsx) (42개 중 42개 PASS) · [증거 CSV](tests/results/1차/evidence_csv)  
+> 내 담당 결과 (공통규칙 C1\~C5): [`tests/results/1차/submissions/1차_결과_공통규칙_설선환.xlsx`](tests/results/1차/submissions/1차_결과_공통규칙_설선환.xlsx)  
 > 원본 저장소: [James-Recon40/AI.M_Project](https://github.com/James-Recon40/AI.M_Project)
 
 가상 차량의 **전조등 · 와이퍼 · 도어 잠금 · 계기판 경고**를 C로 구현하고, 웹 UI에서 입력을 바꿔 가며 요구사항대로 동작하는지 **블랙박스 테스트로 증명**한 팀 프로젝트입니다.
