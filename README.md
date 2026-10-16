@@ -1,6 +1,6 @@
 # 차체 편의 기능 제어 SW (VBC: Vehicle Body Control)
 
-> **5인 팀 프로젝트 · 내 역할: 인터페이스 설계, UI (PR #10 · #13)**  
+> **5인 팀 프로젝트 · 내 역할: 인터페이스 설계, UI (PR #10 · #13), 공통규칙(C1\~C5) 테스트**  
 > 인터페이스 정의서: [`docs/03_interface/03_인터페이스_정의서_VBC_v1.4.xlsx`](docs/03_interface/03_인터페이스_정의서_VBC_v1.4.xlsx)  
 > 테스트 결과: [`tests/results/1차/06_BlackBox_TestResult_VBC_1차.xlsx`](tests/results/1차/06_BlackBox_TestResult_VBC_1차.xlsx) (42개 중 42개 PASS) · [증거 CSV](tests/results/1차/evidence_csv)  
 > 내 담당 결과 (공통규칙 C1\~C5): [`tests/results/1차/submissions/1차_결과_공통규칙_설선환.xlsx`](tests/results/1차/submissions/1차_결과_공통규칙_설선환.xlsx)  
